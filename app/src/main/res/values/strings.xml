@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetoExtra</string>
+    <string name="text_view">Login</string>
+    <string name="lbl_Usuario">Usuário</string>
+    <string name="lbl_Senha">Senha</string>
+    <string name="btn_login">Login</string>
+
+    <!--Mensagem Tela-->
+    <string name="nome_msg">Nome</string>
+    <string name="email_msg">Email</string>
+    <string name="obs_msg">Observações</string>
+    <string name="enviar_msg">Enviar</string>
+
+    <!-- Menu Boas Vindas -->
+    <string name="config_menu">Configurações</string>
+    <string name="sobre_menu">Sobre</string>
+</resources>
